@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "async": "^1.4.0",
-    "dr-svg-sprites": "^0.9.31"
+    "dr-svg-sprites": "https://github.com/trevonerd/dr-svg-sprites/tarball/master"
   },
   "keywords": [
     "gruntplugin",
